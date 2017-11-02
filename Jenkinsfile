@@ -28,7 +28,7 @@ pipeline {
         echo 'Empaquetando...'
           sh 'mvn install'
         echo 'Desplegando...'
-          sh 'mvn tomcat7:deploy'
+          sh 'mvn tomcat7:redeploy'
       }
     }
     stage('Test') {
