@@ -46,9 +46,9 @@ order by CODE asc
         <table border="1" cellpadding="5">
             <caption><h2>Ejecucciones OSM Desarrollo (Ultimos 7 dias)</h2></caption>
             <tr>
-                <th>Partici髇</th>
+                <th>Partici贸n</th>
                 <th>Compuesto</th>
-                  <th>Versi髇</th>
+                  <th>Versi贸n</th>
                   <th>EICD</th>
                 <th>Cantidad</th>
             </tr>
@@ -146,9 +146,9 @@ order by CODE asc
         <table border="1" cellpadding="5">
             <caption><h2>Ejecucciones OSM Desarrollo (Ultimos 7 dias)</h2></caption>
             <tr>
-                <th>Partici贸n</th>
+                <th>Partici脙鲁n</th>
                 <th>Compuesto</th>
-                  <th>Versi贸n</th>
+                  <th>Versi脙鲁n</th>
                   <th>EICD</th>
                 <th>Cantidad</th>
             </tr>
@@ -198,4 +198,3 @@ order by CODE asc
     </div>
 </body>
 </html>
->>>>>>> branch 'master' of https://github.com/MarcoTulioGT/ModuloOSM.git
